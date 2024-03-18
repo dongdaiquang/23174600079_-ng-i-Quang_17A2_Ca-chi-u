@@ -1,0 +1,36 @@
++ Các bài tập nên để riêng từng file code. Ví dụ: Bài 1.py, bài 2.py,...; các file ảnh kết quả cũng nên để riêng
+
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: số lượng sách nên để số nguyên
+Điểm bài tập: 1.0
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4: đề bài yêu cầu kết quả làm tròn đến số thập phân thứ 2
+         import thư viện math để làm gì khi không sử dụng vậy em?
+Điểm bài tập: 0.75
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: đúng
+Điểm bài tập: 1.0 
+
+- Bài 7: định thức chứ không phải định lượng em nhé
+         đề bài yêu cầu kết quả làm tròn đến số thập phân thứ 2
+Điểm bài tập: 0.75
+
+- Bài 8: nhầm biểu thức
+         đề bài yêu cầu kết quả làm tròn đến số thập phân thứ 2
+Điểm bài tập: 0.75
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 
+
+- Bài 10: thiếu
+Điểm bài tập: 0
+
+Tổng điểm bài tập lab 1: 8.25
