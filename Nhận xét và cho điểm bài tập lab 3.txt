@@ -1,0 +1,26 @@
+- Bài 1: 
+a) đúng
+b) đúng
+c) đúng
+d) đúng
+Điểm bài tập: 2.0
+
+- Bài 2: 
+a) đúng
+b) đúng
+Điểm bài tập: 2.0
+
+- Bài 3:
+a) đúng
+b) đúng
+c) in các số trong dãy fibonacci mà < 100 chứ không phải in số fibonacci ở vị trí thứ 99
+d) đúng
+e) trống
+Điểm bài tập: 3.5
+
+- Bài 4:
+a) 2 tam giác tách rời nhau
+b) phần thân tách rời với phần cây
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 3: 8.0
