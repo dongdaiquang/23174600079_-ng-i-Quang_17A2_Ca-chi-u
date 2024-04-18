@@ -1,0 +1,28 @@
+- Bài 1: 
+a) b) sử dụng kiến thức ngoài kiến thức các lab đã học
+c) đúng
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) kết quả in ra các số < 100 chứ không phải các số nguyên tố
+b) đúng
+c) thiếu
+Điểm bài tập: 1.0
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4:
+a) đúng
+b) tổng thiếu phần tử 1/3
+c) đúng
+d) đúng
+Điểm bài tập: 1.75
+
+- Bài 5: sử dụng kiến thức ngoài kiến thức các lab đã học
+Điểm bài tập: 0.75
+
+- Bài 6: thiếu
+Điểm bài tập: 0
+
+Tổng điểm bài tập lab 4: 6.0
